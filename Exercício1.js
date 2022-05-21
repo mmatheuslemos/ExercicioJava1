@@ -79,7 +79,7 @@ console.log(hi);
 console.log(imprimirareavolume(10)); */
 
 //Resolvendo equação do segundo grau
-function equacaosegundograu(a,b,c){
+/*function equacaosegundograu(a,b,c){
     var delta = b*b -4*a*c;   // ax^2 + b*x +c.
     var raizdelta = Math.sqrt(delta);
     if(delta<0){
@@ -93,4 +93,25 @@ function equacaosegundograu(a,b,c){
         return "x1 é " + x1 + "x2 é " + x2;
     }
 }
-console.log(equacaosegundograu(2,2,-1));
+console.log(equacaosegundograu(2,2,-1));*/
+
+//Soma de matrizes de matrizes
+/*const matriz1 = [1, 2, 3, 4];
+const matriz2 = [1, 2, 3, 4];
+let matrizsoma = [12, 0, 2, 0 ];
+
+for (var i = 0; i < matrizsoma.length; i++) {
+    matrizsoma[i] = matriz1[i]+matriz2[i]
+}
+console.log(matrizsoma);*/
+
+//Cálculo da variação linear de uma viga
+/*var temperaturainicial = 20; //°C
+var temperaturafinal = 30; //°C
+var comprimentoinicial = 300 // centímetros
+var coeficientedila = 10**-5 //coeficiente de dilatação.
+var variacao = 0;
+variacao = (temperaturafinal-temperaturainicial)*comprimentoinicial*coeficientedila;
+console.log(variacao +' centímetros');*/
+
+

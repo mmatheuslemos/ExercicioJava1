@@ -26,5 +26,35 @@ var city2 = "Araguari"
 console.log(typeof(city)); 
 console.log(typeof(city2)); 
 
+//Exemplo procurar a posição de uma palavra.
+var city2 = ("World"); // \n pula uma linha
+console.log(city2.search("l")); 
+
+//Exemplo procurar a posição de uma palavra.
+var city2 = ("World"); // \n pula uma linha
+console.log(city2.search("l")); 
+
+//Torna todos os caracteres em letras maiúsculas.
+var city2 = ("World"); 
+console.log(city2.toUpperCase()); 
+
+//Torna todos os caracteres em letras maiúsculas.
+var city2 = ("World"); 
+console.log(city2.toUpperCase()); 
+
+//Torna todos os caracteres em letras minúsculas.
+var city2 = ("World"); 
+console.log(city2.toLowerCase()); 
+
+//Verificar se há uma letra ou trecho em uma string em boolean.
+var city2 = ("São Paulo é uma cidade"); 
+console.log(city2.includes("n")); 
+
+//Verificar se há uma letra ou trecho em uma string em boolean.
+var city2 = ("São Paulo é uma cidade"); 
+console.log(city2.includes("n")); 
+
+
+
 
 

@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.menu{
+    display: flex;   /*Aplicação da disposição do flexbox*/
+    flex-direction: column; /*Aplicação da direção em uma linha*/
+    /*flex-direction: column; /*Aplicação da direção no sentido de coluna*/
+    /*flex-direction: row-reverse; /*Aplicação em linha, porém reversa.*/
+    /*flex-direction: column-reverse; /*Aplicação em coluna, porém reversa.*/
+    /*flex-wrap: nowrap; /*não haverá quebra*/
+    /*flex-wrap: wrap; /*haverá quebra*/
+    /*flex-wrap: wrap-reverse; /*haverá quebra com reversão*/
+    /*justify-content: flex-start;*/
+    background-color: rgb(0, 0, 0);
+}
+
+.submenu1{
+    background-color: red;
+    height: 100px;
+    /*max-width: 1000px;*/
+    width: 100%;
+    /*min-width: 1500%; /*Comprimento mínimo da div*/
+    /*max-width: 1000px; /*Comprimento máximo da div*/
+    
+}
+.submenu2{
+    background-color: rgb(43, 26, 197);
+    height: 100px;
+    max-width: 1000px;
+    width: 50%;
+}
+/*.submenu3{
+    background-color: rgba(9, 255, 0, 0.726);
+    height: 100px;
+    max-width: 1000px;
+    width: 50%;
+}
+.submenu4{
+    background-color: rgba(0, 247, 255, 0.726);
+    height: 100px;
+    max-width: 1000px;
+    width: 50%;
+}
+.submenu5{
+    background-color: rgba(255, 0, 234, 0.726);
+    height: 100px;
+    max-width: 1000px;
+    width: 50%;
+}
+.submenu6{
+    background-color: rgba(71, 145, 68, 0.726);
+    height: 100px;
+    max-width: 1000px;
+    width: 50%;
+}*/

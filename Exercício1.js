@@ -114,4 +114,3 @@ var variacao = 0;
 variacao = (temperaturafinal-temperaturainicial)*comprimentoinicial*coeficientedila;
 console.log(variacao +' centímetros');*/
 
-
